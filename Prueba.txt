@@ -1,2 +1,3 @@
 Mi nombre es José Luis Garcia
 Escuela UTSJR
+carrera: Desarrollo y Gestión de Software
